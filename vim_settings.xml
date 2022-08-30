@@ -1,7 +1,4 @@
 <application>
-  <component name="VimEditorSettings">
-    <editor />
-  </component>
   <component name="VimKeySettings">
     <shortcut-conflicts />
   </component>
