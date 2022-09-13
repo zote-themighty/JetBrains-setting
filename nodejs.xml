@@ -1,0 +1,10 @@
+<application>
+  <component name="NodeJsLocalInterpreterManager">
+    <local-interpreter path="$APPLICATION_CONFIG_DIR$/node/node-v14.15.0-darwin-x64/bin/node">
+      <version-cache version="14.15.0" last-modified="1658796078973" />
+    </local-interpreter>
+    <local-interpreter path="/opt/homebrew/bin/node">
+      <version-cache version="18.7.0" last-modified="1659922265546" />
+    </local-interpreter>
+  </component>
+</application>
