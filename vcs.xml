@@ -6,13 +6,8 @@
           <option name="url" value="http://47.97.207.206:81" />
           <option name="userName" value="chenguangxin" />
         </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://47.97.207.206:81/chenguangxin/tea-trace" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="\\wsl$\Ubuntu\home\dscfl\front-end" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
