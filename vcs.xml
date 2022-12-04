@@ -18,6 +18,10 @@
           <option name="url" value="http://47.97.207.206:81/ktt-best2022/sch-h5/-/tree/master" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://47.97.207.206:81/ktt-best2022/sch-h5" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="\\wsl$\Ubuntu\home\dscfl\front-end" />
